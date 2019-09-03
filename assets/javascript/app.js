@@ -209,6 +209,10 @@ var hitslineChart = dc.lineChart("#chart-line-hitsperday")
 
 
 
+
+
+
+
 hitslineChart
     .width(1000).height(400)
     .dimension(dateDim)
